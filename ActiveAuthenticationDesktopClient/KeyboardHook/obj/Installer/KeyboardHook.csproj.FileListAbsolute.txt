@@ -1,0 +1,12 @@
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Installer\KeyboardHook.dll.config
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Installer\KeyboardHook.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Installer\KeyboardHook.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Installer\KeyboardHook.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Installer\KeyboardHook.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Installer\KeyboardHook.csprojResolveAssemblyReference.cache
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Installer\KeyboardHook.dll.config
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Installer\KeyboardHook.dll
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Installer\KeyboardHook.pdb
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Installer\KeyboardHook.csprojResolveAssemblyReference.cache
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Installer\KeyboardHook.dll
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Installer\KeyboardHook.pdb

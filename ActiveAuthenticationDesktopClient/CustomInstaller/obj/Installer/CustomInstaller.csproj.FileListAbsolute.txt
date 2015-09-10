@@ -1,0 +1,11 @@
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\CustomInstaller.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\CustomInstaller.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\ActiveAuthenticationDesktopClient.exe
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\RawInput.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\KeyboardHook.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\ActiveAuthenticationDesktopClient.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\RawInput.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\bin\Installer\KeyboardHook.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\obj\Installer\CustomInstaller.csprojResolveAssemblyReference.cache
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\obj\Installer\CustomInstaller.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\CustomInstaller\obj\Installer\CustomInstaller.pdb

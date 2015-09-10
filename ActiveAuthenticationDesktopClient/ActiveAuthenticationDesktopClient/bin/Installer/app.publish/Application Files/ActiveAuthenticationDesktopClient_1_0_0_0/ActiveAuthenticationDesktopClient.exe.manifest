@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ActiveAuthenticationDesktopClient.exe" version="1.0.0.0" publicKeyToken="485220dcbf486ef9" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="A.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ActiveAuthenticationDesktopClient" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ActiveAuthenticationDesktopClient.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ActiveAuthenticationDesktopClient.exe" size="985584">
+      <assemblyIdentity name="ActiveAuthenticationDesktopClient" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>OFZOyIsB0oxBgvxjBxrTfk/9y7b/pM5p8bbyxVw4JZ0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KeyboardHook.dll" size="10752">
+      <assemblyIdentity name="KeyboardHook" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RzZDX/0TfgAw8kruBuNBI/ZWHolFBBG6W/Z/J0aIjf8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RawInput.dll" size="28672">
+      <assemblyIdentity name="RawInput" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>4et9Nq+opoPEcWJXxD0Xm5KHRcfCXpqQrleEmEaWOTs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="A.ico" size="131861">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tRLECNeEpA87GxjrUI5vw/dZvirQ2A2Qfjva9X6zLPc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ActiveAuthenticationDesktopClient.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Capture.PNG" size="4565">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WMZ263J6b6gwky+U4NqRy+TPCokVeP0a6+sLZwAOdvw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. 
+      Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- If your application is designed to work with Windows 8, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- If your application is designed to work with Windows 8.1, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=WIN-RQ6HTPGB45R\CSCUser" issuerKeyHash="465e8404d20fb000d45ef5a1c3e305bd88875fd5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>IRJGUyKep4qoSsIcx1dXnSYrvkECez21pBw/grYKoxk=</DigestValue></Reference></SignedInfo><SignatureValue>N3KnwUWTUJ3aQcH0Pp+HSLTn0XIorfZ4BbIE5Dxu5DQJkFLXKPvWw60qG3eK22CMH+Mw3rZsrrsfo+6WP2FlFSiQpYFk6lFgky8cq5EkXifHPTaLYGuzTYy2BQeyl4q0qgp2MBafewwVCZxZSy/wgxJvczdoBE3U4CiebfjvbEw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uXka34xgU9wy74YW0YsBeWZ9CaAvSEiWKXHkkdZVHsQ3S7LVJykMFZpbSK2rptlntWCFEM+EjdTCg3mDACiHJCRFGIQ7SG4VoTL87U6Ohi32qEb0wMYwLNynnw8rIkst6QN79qdrHb3oQ6Ej62lzW7iG4rjLSh1jwcmpczgG+Vc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="19a30ab6823f1ca4b53d7b0241be2b269d5757c71cc24aa88aa79e2253461221" Description="" Url=""><as:assemblyIdentity name="ActiveAuthenticationDesktopClient.exe" version="1.0.0.0" publicKeyToken="485220dcbf486ef9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=WIN-RQ6HTPGB45R\CSCUser</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>7cpb/ALHumY5qnvMtZdkcSYt+gIAD+yY71Cq8XDtuIE=</DigestValue></Reference></SignedInfo><SignatureValue>eJq3o1j3payAm4sM49l+a+TU5rOl6yH5c4K+Zd3p7UaNE+LXovwBrJBy1/WBaPgPzATGI+PmvZf+/QCTC1Gk84VYUbj5ekgjF+jenmyyprmln3bjf3yY0xXVEEsbvX4vlIYUm0gbW94LFRQxjWsOFx36pmFiHEnRR9WWsq/8gj0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uXka34xgU9wy74YW0YsBeWZ9CaAvSEiWKXHkkdZVHsQ3S7LVJykMFZpbSK2rptlntWCFEM+EjdTCg3mDACiHJCRFGIQ7SG4VoTL87U6Ohi32qEb0wMYwLNynnw8rIkst6QN79qdrHb3oQ6Ej62lzW7iG4rjLSh1jwcmpczgG+Vc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQfG6iQGFJkYxFb6dXgBRRgzANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4AVwBJAE4ALQBSAFEANgBIAFQAUABHAEIANAA1AFIAXABDAFMAQwBVAHMAZQByMB4XDTE1MDkwOTE3NTYxM1oXDTE2MDkwODIzNTYxM1owOTE3MDUGA1UEAx4uAFcASQBOAC0AUgBRADYASABUAFAARwBCADQANQBSAFwAQwBTAEMAVQBzAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuXka34xgU9wy74YW0YsBeWZ9CaAvSEiWKXHkkdZVHsQ3S7LVJykMFZpbSK2rptlntWCFEM+EjdTCg3mDACiHJCRFGIQ7SG4VoTL87U6Ohi32qEb0wMYwLNynnw8rIkst6QN79qdrHb3oQ6Ej62lzW7iG4rjLSh1jwcmpczgG+VcCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBZHrqpHhCoxjIR9Ffih6Z0ac4LcctjJQU22IptLQVpUacvIO0Z4PyTAEjUMoFt5bHu4F07TuRAbTVcy/ZH08F/6wuHkKTEKjczNCVW3d1Nk9Oa8OiM/MouSWuM++s7o/1XD867gimy1E8XhkueImGGcLIdruT3cQICg3JmMSa65g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,24 @@
+Q) Why does my computer tell me "Task Manager has been disabled by your administrator" every time I try to open the task manager?
+A) The lock out window is designed to be as secure as possible. Once locked out task manager will be disabled, common windows
+   key combos will be disabled, and your ability to navigate out of the locked screen will be revoked. All combos and task
+   manager should be reinstated upon a successful re-authentication. In the event that something does go wrong (since the current
+   release of this software is considered a Beta release) and task manager is still disabled, open regedit and navigate to:
+   HKEY_USERS\<SID>\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System If you do not know your SID then simply go through
+   each one that has more than three hyphens until you find the folder. Once there delete the DisableTaskMgr key. Your task
+   manager should be up and running again. 
+
+Q) Why can't I get passed the enrollment form?
+A) There are several reasons why you may get stuck here. First we recommend that you make absolutely sure that all of your
+   information is correct (mobile number, carrier, email address). If that did not resolve the problem you may have another
+   program blocking Active Authentication from sending emails. This could be a firewall or an antivirus software. We recommend
+   turning off these programs one by one and pressing the send code button. When you find the one that is blocking Active
+   Authentication add the necessary exception for Active Authentication and then turn all of your security software back on. Once
+   all security systems are back online try resending the code one more time just to be sure it works. Do not use Active
+   Authentication unless you are sure you can receive authentication codes! Also, do not leave all of your other security programs
+   off!  
+
+Q) Why does the application still appear after it’s been uninstalled?
+A) If you uninstalled the application by shutting down, restarting, or logging off during the lock screen designed to prevent
+   malicious users from uninstalling the program you will not uninstall all of the functions of the application.  To get a complete
+   uninstall you must reinstall Active Authentication using the installer and then uninstall it again, but this time complete the
+   uninstallation process with a re-authentication code.

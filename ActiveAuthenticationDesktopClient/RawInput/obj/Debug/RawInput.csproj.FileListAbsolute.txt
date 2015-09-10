@@ -1,0 +1,4 @@
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\bin\Debug\RawInput.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\bin\Debug\RawInput.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\obj\Debug\RawInput.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\obj\Debug\RawInput.pdb

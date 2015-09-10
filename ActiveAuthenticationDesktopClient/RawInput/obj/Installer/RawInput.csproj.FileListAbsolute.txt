@@ -1,0 +1,10 @@
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\bin\Installer\RawInput.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\bin\Installer\RawInput.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\obj\Installer\RawInput.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\obj\Installer\RawInput.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\RawInput\obj\Installer\RawInput.csprojResolveAssemblyReference.cache
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\RawInput\bin\Installer\RawInput.dll
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\RawInput\bin\Installer\RawInput.pdb
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\RawInput\obj\Installer\RawInput.csprojResolveAssemblyReference.cache
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\RawInput\obj\Installer\RawInput.dll
+C:\Users\CSCUser\Desktop\ActiveAuthenticationDesktopClient\RawInput\obj\Installer\RawInput.pdb

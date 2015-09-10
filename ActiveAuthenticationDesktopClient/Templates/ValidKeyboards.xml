@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Keyboard>
+    <DeviceName>\\?\Root#RDP_KBD#0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}</DeviceName>
+    <FriendlyName>Root</FriendlyName>
+  </Keyboard>
+  <Keyboard>
+    <DeviceName>\\?\HID#VID_413C&amp;PID_2107#7&amp;1ff4a5e4&amp;0&amp;0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}</DeviceName>
+    <FriendlyName>dellPrime</FriendlyName>
+  </Keyboard>
+</NewDataSet>

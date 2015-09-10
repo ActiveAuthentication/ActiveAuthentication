@@ -1,0 +1,5 @@
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Debug\KeyboardHook.dll.config
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Debug\KeyboardHook.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\bin\Debug\KeyboardHook.pdb
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Debug\KeyboardHook.dll
+C:\Workspace\ActiveAuthenticationDesktopClient\KeyboardHook\obj\Debug\KeyboardHook.pdb

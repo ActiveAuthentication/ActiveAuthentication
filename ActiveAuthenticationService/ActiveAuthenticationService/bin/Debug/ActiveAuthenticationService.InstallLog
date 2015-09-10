@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Workspace\ActiveAuthenticationService\ActiveAuthenticationService\bin\Debug\ActiveAuthenticationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\ActiveAuthenticationService\ActiveAuthenticationService\bin\Debug\ActiveAuthenticationService.InstallLog
+   assemblypath = C:\Workspace\ActiveAuthenticationService\ActiveAuthenticationService\bin\Debug\ActiveAuthenticationService.exe
+Installing service ActiveAuthenticationService...
+Service ActiveAuthenticationService has been successfully installed.
+Creating EventLog source ActiveAuthenticationService in log Application...
+Committing assembly 'C:\Workspace\ActiveAuthenticationService\ActiveAuthenticationService\bin\Debug\ActiveAuthenticationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Workspace\ActiveAuthenticationService\ActiveAuthenticationService\bin\Debug\ActiveAuthenticationService.InstallLog
+   assemblypath = C:\Workspace\ActiveAuthenticationService\ActiveAuthenticationService\bin\Debug\ActiveAuthenticationService.exe

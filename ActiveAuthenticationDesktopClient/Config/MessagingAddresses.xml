@@ -1,0 +1,841 @@
+<?xml version="1.0" standalone="yes"?>
+<MessagingAddresses>
+  <Table>
+	<Table>
+		<Carrier>3 River Wireless</Carrier>
+		<GatewayAddress>@sms.3rivers.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>ACS Wireless</Carrier>
+		<GatewayAddress>@paging.acswireless.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Alltel</Carrier>
+		<GatewayAddress>@message.alltel.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>AT&amp;T</Carrier>
+		<GatewayAddress>@txt.att.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell Canada</Carrier>
+		<GatewayAddress>@txt.bellmobility.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell Canada</Carrier>
+		<GatewayAddress>@bellmobility.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell Mobility (Canada)</Carrier>
+		<GatewayAddress>@txt.bell.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell Mobility</Carrier>
+		<GatewayAddress>@txt.bellmobility.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Blue Sky Frog</Carrier>
+		<GatewayAddress>@blueskyfrog.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bluegrass Cellular</Carrier>
+		<GatewayAddress>@sms.bluecell.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Boost Mobile</Carrier>
+		<GatewayAddress>@myboostmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>BPL Mobile</Carrier>
+		<GatewayAddress>@bplmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Carolina West Wireless</Carrier>
+		<GatewayAddress>@cwwsms.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One</Carrier>
+		<GatewayAddress>@mobile.celloneusa.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular South</Carrier>
+		<GatewayAddress>@csouth1.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Centennial Wireless</Carrier>
+		<GatewayAddress>@cwemail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>CenturyTel</Carrier>
+		<GatewayAddress>@messaging.centurytel.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cingular (Now AT&amp;T)</Carrier>
+		<GatewayAddress>@txt.att.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Clearnet</Carrier>
+		<GatewayAddress>@msg.clearnet.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Comcast</Carrier>
+		<GatewayAddress>@comcastpcs.textmsg.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Corr Wireless Communications</Carrier>
+		<GatewayAddress>@corrwireless.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Dobson</Carrier>
+		<GatewayAddress>@mobile.dobson.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Edge Wireless</Carrier>
+		<GatewayAddress>@sms.edgewireless.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Fido</Carrier>
+		<GatewayAddress>@fido.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Golden Telecom</Carrier>
+		<GatewayAddress>@sms.goldentele.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Helio</Carrier>
+		<GatewayAddress>@messaging.sprintpcs.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Houston Cellular</Carrier>
+		<GatewayAddress>@text.houstoncellular.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Idea Cellular</Carrier>
+		<GatewayAddress>@ideacellular.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Illinois Valley Cellular</Carrier>
+		<GatewayAddress>@ivctext.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Inland Cellular Telephone</Carrier>
+		<GatewayAddress>@inlandlink.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>MCI</Carrier>
+		<GatewayAddress>@pagemci.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Metrocall</Carrier>
+		<GatewayAddress>@page.metrocall.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Metrocall 2-way</Carrier>
+		<GatewayAddress>@my2way.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Metro PCS</Carrier>
+		<GatewayAddress>@mymetropcs.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Microcell</Carrier>
+		<GatewayAddress>@fido.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Midwest Wireless</Carrier>
+		<GatewayAddress>@clearlydigital.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobilcomm</Carrier>
+		<GatewayAddress>@mobilecomm.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>MTS</Carrier>
+		<GatewayAddress>@text.mtsmobility.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Nextel</Carrier>
+		<GatewayAddress>@messaging.nextel.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>OnlineBeep</Carrier>
+		<GatewayAddress>@onlinebeep.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>PCS One</Carrier>
+		<GatewayAddress>@pcsone.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>President's Choice</Carrier>
+		<GatewayAddress>@txt.bell.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Public Service Cellular</Carrier>
+		<GatewayAddress>@sms.pscel.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Qwest</Carrier>
+		<GatewayAddress>@qwestmp.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Rogers AT&amp;T Wireless</Carrier>
+		<GatewayAddress>@pcs.rogers.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Rogers Canada</Carrier>
+		<GatewayAddress>@pcs.rogers.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Satellink</Carrier>
+		<GatewayAddress>@satellink.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Southwestern Bell</Carrier>
+		<GatewayAddress>@email.swbw.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Sprint</Carrier>
+		<GatewayAddress>@messaging.sprintpcs.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Sumcom</Carrier>
+		<GatewayAddress>@tms.suncom.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Surewest Communicaitons</Carrier>
+		<GatewayAddress>@mobile.surewest.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>T-Mobile</Carrier>
+		<GatewayAddress>@tmomail.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Telus</Carrier>
+		<GatewayAddress>@msg.telus.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Tracfone</Carrier>
+		<GatewayAddress>@txt.att.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Triton</Carrier>
+		<GatewayAddress>@tms.suncom.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Unicel</Carrier>
+		<GatewayAddress>@utext.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>US Cellular</Carrier>
+		<GatewayAddress>@email.uscc.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Solo Mobile</Carrier>
+		<GatewayAddress>@txt.bell.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>US West</Carrier>
+		<GatewayAddress>@uswestdatamail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Verizon</Carrier>
+		<GatewayAddress>@vtext.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Virgin Mobile</Carrier>
+		<GatewayAddress>@vmobl.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Virgin Mobile Canada</Carrier>
+		<GatewayAddress>@vmobile.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>West Central Wireless</Carrier>
+		<GatewayAddress>@sms.wcc.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Western Wireless</Carrier>
+		<GatewayAddress>@cellularonewest.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Chennai RPG Cellular</Carrier>
+		<GatewayAddress>@rpgmail.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Chennai Skycell / Airtel</Carrier>
+		<GatewayAddress>@airtelchennai.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Comviq</Carrier>
+		<GatewayAddress>@sms.comviq.se</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Delhi Aritel</Carrier>
+		<GatewayAddress>@airtelmail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Delhi Hutch</Carrier>
+		<GatewayAddress>@delhi.hutch.co.in</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>DT T-Mobile</Carrier>
+		<GatewayAddress>@t-mobile-sms.de</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Dutchtone / Orange-NL</Carrier>
+		<GatewayAddress>@sms.orange.nl</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>EMT</Carrier>
+		<GatewayAddress>@sms.emt.ee</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Escotel</Carrier>
+		<GatewayAddress>@escotelmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>German T-Mobile</Carrier>
+		<GatewayAddress>@t-mobile-sms.de</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Goa BPLMobil</Carrier>
+		<GatewayAddress>@bplmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Golden Telecom</Carrier>
+		<GatewayAddress>@sms.goldentele.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Gujarat Celforce</Carrier>
+		<GatewayAddress>@celforce.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>JSM Tele-Page</Carrier>
+		<GatewayAddress>@jsmtel.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Kerala Escotel</Carrier>
+		<GatewayAddress>@escotelmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Kolkata Airtel</Carrier>
+		<GatewayAddress>@airtelkol.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Kyivstar</Carrier>
+		<GatewayAddress>@smsmail.lmt.lv</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Lauttamus Communication</Carrier>
+		<GatewayAddress>@e-page.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>LMT</Carrier>
+		<GatewayAddress>@smsmail.lmt.lv</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Maharashtra BPL Mobile</Carrier>
+		<GatewayAddress>@bplmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Maharashtra Idea Cellular</Carrier>
+		<GatewayAddress>@ideacellular.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Manitoba Telecom Systems</Carrier>
+		<GatewayAddress>@text.mtsmobility.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Meteor</Carrier>
+		<GatewayAddress>@mymeteor.ie</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>MiWorld</Carrier>
+		<GatewayAddress>@m1.com.sg</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobileone</Carrier>
+		<GatewayAddress>@m1.com.sg</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobilfone</Carrier>
+		<GatewayAddress>@page.mobilfone.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobility Bermuda</Carrier>
+		<GatewayAddress>@ml.bm</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobistar Belgium</Carrier>
+		<GatewayAddress>@mobistar.be</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobitel Tanzania</Carrier>
+		<GatewayAddress>@sms.co.tz</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobtel Srbija</Carrier>
+		<GatewayAddress>@mobtel.co.yu</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Movistar</Carrier>
+		<GatewayAddress>@correo.movistar.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mumbai BPL Mobile</Carrier>
+		<GatewayAddress>@bplmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Netcom</Carrier>
+		<GatewayAddress>@sms.netcom.no</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Ntelos</Carrier>
+		<GatewayAddress>@pcs.ntelos.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>O2</Carrier>
+		<GatewayAddress>@o2.co.uk</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>O2</Carrier>
+		<GatewayAddress>@o2imail.co.uk</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>O2 (M-mail)</Carrier>
+		<GatewayAddress>@mmail.co.uk</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>One Connect Austria</Carrier>
+		<GatewayAddress>@onemail.at</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>OnlineBeep</Carrier>
+		<GatewayAddress>@onlinebeep.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Optus Mobile</Carrier>
+		<GatewayAddress>@optusmobile.com.au</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Orange</Carrier>
+		<GatewayAddress>@orange.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Orange Mumbai</Carrier>
+		<GatewayAddress>@orangemail.co.in</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Orange NL / Dutchtone</Carrier>
+		<GatewayAddress>@sms.orange.nl</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Oskar</Carrier>
+		<GatewayAddress>@mujoskar.cz</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>P&amp;T Luxembourg</Carrier>
+		<GatewayAddress>@sms.luxgsm.lu</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Personal Communication</Carrier>
+		<GatewayAddress>@pcom.ru (put the number in the subject line)</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Pondicherry BPL Mobile</Carrier>
+		<GatewayAddress>@bplmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Primtel</Carrier>
+		<GatewayAddress>@sms.primtel.ru</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Safaricom</Carrier>
+		<GatewayAddress>@safaricomsms.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Satelindo GSM</Carrier>
+		<GatewayAddress>@satelindogsm.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>SCS-900</Carrier>
+		<GatewayAddress>@scs-900.ru</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>SFR France</Carrier>
+		<GatewayAddress>@sfr.fr</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Simple Freedom</Carrier>
+		<GatewayAddress>@text.simplefreedom.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Smart Telecom</Carrier>
+		<GatewayAddress>@mysmart.mymobile.ph</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Southern LINC</Carrier>
+		<GatewayAddress>@page.southernlinc.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Sunrise Mobile</Carrier>
+		<GatewayAddress>@mysunrise.ch</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Sunrise Mobile</Carrier>
+		<GatewayAddress>@swmsg.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Surewest Communications</Carrier>
+		<GatewayAddress>@freesurf.ch</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Swisscom</Carrier>
+		<GatewayAddress>@bluewin.ch</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>T-Mobile Austria</Carrier>
+		<GatewayAddress>@sms.t-mobile.at</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>T-Mobile Germany</Carrier>
+		<GatewayAddress>@t-d1-sms.de</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>T-Mobile UK</Carrier>
+		<GatewayAddress>@t-mobile.uk.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Tamil Nadu BPL Mobile</Carrier>
+		<GatewayAddress>@bplmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Tele2 Latvia</Carrier>
+		<GatewayAddress>@sms.tele2.lv</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Telefonica Movistar</Carrier>
+		<GatewayAddress>@movistar.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Telenor</Carrier>
+		<GatewayAddress>@mobilpost.no</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Teletouch</Carrier>
+		<GatewayAddress>@pageme.teletouch.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Telia Denmark</Carrier>
+		<GatewayAddress>@gsm1800.telia.dk</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>TIM</Carrier>
+		<GatewayAddress>@timnet.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>TSR Wireless</Carrier>
+		<GatewayAddress>@alphame.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>UMC</Carrier>
+		<GatewayAddress>@sms.umc.com.ua</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Uraltel</Carrier>
+		<GatewayAddress>@sms.uraltel.ru</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Uttar Pradesh Escotel</Carrier>
+		<GatewayAddress>@escotelmobile.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Vessotel</Carrier>
+		<GatewayAddress>@pager.irkutsk.ru</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Vodafone Italy</Carrier>
+		<GatewayAddress>@sms.vodafone.it</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Vodafone Japan</Carrier>
+		<GatewayAddress>@c.vodafone.ne.jp</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Vodafone Japan</Carrier>
+		<GatewayAddress>@h.vodafone.ne.jp</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Vodafone Japan</Carrier>
+		<GatewayAddress>@t.vodafone.ne.jp</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Vodafone UK</Carrier>
+		<GatewayAddress>@vodafone.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Wyndtell</Carrier>
+		<GatewayAddress>@wyndtell.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Advantage Communications</Carrier>
+		<GatewayAddress>@advantagepaging.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Airtouch Pagers</Carrier>
+		<GatewayAddress>@myairmail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>AlphaNow</Carrier>
+		<GatewayAddress>@alphanow.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Ameritech Paging</Carrier>
+		<GatewayAddress>@paging.acswireless.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>American Messaging</Carrier>
+		<GatewayAddress>@page.americanmessaging.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Ameritech Clearpath</Carrier>
+		<GatewayAddress>@clearpath.acswireless.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Arch Pagers (PageNet)</Carrier>
+		<GatewayAddress>@archwireless.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>AT&amp;T</Carrier>
+		<GatewayAddress>@mobile.att.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>AT&amp;T Free2Go</Carrier>
+		<GatewayAddress>@mmode.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>AT&amp;T PCS</Carrier>
+		<GatewayAddress>@mobile.att.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>AT&amp;T Pocketnet PCS</Carrier>
+		<GatewayAddress>@dpcs.mobile.att.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Beepwear</Carrier>
+		<GatewayAddress>@beepwear.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell Atlantic</Carrier>
+		<GatewayAddress>@message.bam.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell South</Carrier>
+		<GatewayAddress>@wireless.bellsouth.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell South (Blackberry)</Carrier>
+		<GatewayAddress>@bellsouthtips.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Bell South Mobility</Carrier>
+		<GatewayAddress>@blsdcs.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One (East Coast)</Carrier>
+		<GatewayAddress>@phone.cellone.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One (South West)</Carrier>
+		<GatewayAddress>@swmsg.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One</Carrier>
+		<GatewayAddress>@cellularone.txtmsg.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One</Carrier>
+		<GatewayAddress>@cellularone.textmsg.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One</Carrier>
+		<GatewayAddress>@cell1.textmsg.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One</Carrier>
+		<GatewayAddress>@sbcemail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cellular One (West)</Carrier>
+		<GatewayAddress>@mycellone.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Central Vermont Communications</Carrier>
+		<GatewayAddress>@cvcpaging.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cingular</Carrier>
+		<GatewayAddress>@cingularme.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Communication Specialists</Carrier>
+		<GatewayAddress>@pageme.comspeco.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Cook Paging</Carrier>
+		<GatewayAddress>@cookmail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Corr Wireless Communications</Carrier>
+		<GatewayAddress>@corrwireless.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Digi-Page / Page Kansas</Carrier>
+		<GatewayAddress>@page.hit.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Galaxy Corporation</Carrier>
+		<GatewayAddress>@sendabeep.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>GCS Paging</Carrier>
+		<GatewayAddress>@webpager.us</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>GrayLink / Porta-Phone</Carrier>
+		<GatewayAddress>@epage.porta-phone.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>GTE</Carrier>
+		<GatewayAddress>@airmessage.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>GTE</Carrier>
+		<GatewayAddress>@gte.pagegate.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>GTE</Carrier>
+		<GatewayAddress>@messagealert.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Infopage Systems</Carrier>
+		<GatewayAddress>@page.infopagesystems.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Indiana Paging Co</Carrier>
+		<GatewayAddress>@inlandlink.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>MCI</Carrier>
+		<GatewayAddress>@pagemci.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Metrocall</Carrier>
+		<GatewayAddress>@page.metrocall.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Mobilecom PA</Carrier>
+		<GatewayAddress>@page.mobilcom.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Morris Wireless</Carrier>
+		<GatewayAddress>@beepone.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Motient</Carrier>
+		<GatewayAddress>@isp.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Nextel</Carrier>
+		<GatewayAddress>@page.nextel.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Omnipoint</Carrier>
+		<GatewayAddress>@omnipointpcs.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Pacific Bell</Carrier>
+		<GatewayAddress>@pacbellpcs.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>PageMart</Carrier>
+		<GatewayAddress>@pagemart.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>PageMart Canada</Carrier>
+		<GatewayAddress>@pmcl.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>PageNet Canada</Carrier>
+		<GatewayAddress>@pagegate.pagenet.ca</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>PageOne Northwest</Carrier>
+		<GatewayAddress>@page1nw.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>PCS One</Carrier>
+		<GatewayAddress>@pcsone.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Powertel</Carrier>
+		<GatewayAddress>@voicestream.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Price Communications</Carrier>
+		<GatewayAddress>@mobilecell1se.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Primeco</Carrier>
+		<GatewayAddress>@email.uscc.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>ProPage</Carrier>
+		<GatewayAddress>@page.propage.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Qualcomm</Carrier>
+		<GatewayAddress>@pager.qualcomm.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>RAM Page</Carrier>
+		<GatewayAddress>@ram-page.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>SBC Ameritech Paging</Carrier>
+		<GatewayAddress>@paging.acswireless.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Skytel Pagers</Carrier>
+		<GatewayAddress>@email.skytel.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>ST Paging</Carrier>
+		<GatewayAddress>@page.stpaging.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Verizon Pagers</Carrier>
+		<GatewayAddress>@myairmail.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>Verizon PCS</Carrier>
+		<GatewayAddress>@myvzw.com</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>VoiceStream</Carrier>
+		<GatewayAddress>@voicestream.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>WebLink Wireless</Carrier>
+		<GatewayAddress>@@airmessage.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>WebLink Wireless</Carrier>
+		<GatewayAddress>@pagemart.net</GatewayAddress>
+	</Table>
+	<Table>
+		<Carrier>West Central Wireless</Carrier>
+		<GatewayAddress>@sms.wcc.ne</GatewayAddress>
+	</Table>
+  </Table>
+</MessagingAddresses>

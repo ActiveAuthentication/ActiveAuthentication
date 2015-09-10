@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <DefaultConfiguration>
+    <connectionString>Data Source=CIC-WEB;Initial Catalog=DARPA_Tests;Persist Security Info=True;User ID=DarpaDbUser;Password=DarpaDbUser01</connectionString>
+    <oldConnectionString>Data Source=CIC-WEB;Initial Catalog=DARPA;Persist Security Info=True;User ID=DarpaDbUser;Password=DarpaDbUser01</oldConnectionString>
+    <deleteTrainingProfiles>true</deleteTrainingProfiles>
+    <randomizeImposters>false</randomizeImposters>
+    <keyEventsPerSample>1100</keyEventsPerSample>
+    <minimumUserId>1</minimumUserId>
+    <numberOfProfilesToTrain>2</numberOfProfilesToTrain>
+    <numberOfUsersPerProfile>2</numberOfUsersPerProfile>
+    <imposterPhaseShift>0</imposterPhaseShift>
+    <requiredTrainingSamples>6</requiredTrainingSamples>
+    <reuseOldData>false</reuseOldData>
+    <slidingWindowJump>110</slidingWindowJump>
+    <stopAfterFirstImposterSample>false</stopAfterFirstImposterSample>
+    <strTestDescription>Default Description</strTestDescription>
+    <templateMinFeatureCount>4</templateMinFeatureCount>
+    <useSlidingWindow>true</useSlidingWindow>
+    <writeClassifierScoresToDb>true</writeClassifierScoresToDb>
+    <writeFeaturesToDb>false</writeFeaturesToDb>
+    <writeFuserScoresToDb>false</writeFuserScoresToDb>
+    <writeSystemScoresToDb>true</writeSystemScoresToDb>
+    <featureExtractorDataCacheDirectory>..\..\..\..\TempFeatures</featureExtractorDataCacheDirectory>
+    <featureExtractorDirectory>..\..\..\..\FeatureExtractorModules\</featureExtractorDirectory>
+    <fuserProfilePath>C:\Program Files (x86)\Louisiana Tech University\Active Authentication\Templates</fuserProfilePath>
+    <fuserThresholdsFile>C:\Program Files (x86)\Louisiana Tech University\ActiveAuthenticationDesktopClient\Config\FuserThreshold.xml</fuserThresholdsFile>
+    <fuserVerifierThresholdsFileName>C:\Program Files (x86)\Louisiana Tech University\ActiveAuthenticationDesktopClient\Config\VerifierThresholds.xml</fuserVerifierThresholdsFileName>
+    <idfMapFilePath>..\..\..\..\Config\IDF_Map.xml</idfMapFilePath>
+    <imposterDataFile>..\..\..\..\Config\ImposterData.xml</imposterDataFile>
+    <posModelFilePath>..\..\..\..\Config\SharpNLP\en-pos-maxent.bin</posModelFilePath>
+    <profilePath>C:\Program Files (x86)\Louisiana Tech University\Active Authentication\Templates</profilePath>
+    <sentenceDetectorModelFilePath>..\..\..\..\Config\SharpNLP\en-sent.bin</sentenceDetectorModelFilePath>
+    <spellCheckDictionaryFilePath>..\..\..\..\Config\SharpNLP\sae-sorted.dic</spellCheckDictionaryFilePath>
+    <tokenizerModelFilePath>..\..\..\..\Config\SharpNLP\en-token.bin</tokenizerModelFilePath>
+    <verifierDirectory>..\..\..\..\VerifierModules\</verifierDirectory>
+    <verifierThresholdsFile>..\..\..\..\Config\VerifierThresholds.xml</verifierThresholdsFile>
+    <messagingAddressFile>C:\Program Files (x86)\Louisiana Tech University\Active Authentication\Config\MessagingAddresses.xml</messagingAddressFile>
+    <absoluteMaxRatioForValidMatch>1.45</absoluteMaxRatioForValidMatch>
+    <absoluteMinMatchingPairs>0</absoluteMinMatchingPairs>
+    <featureGroupingSize>1</featureGroupingSize>
+    <fuserThresholdTypeId>1</fuserThresholdTypeId>
+    <outlierDetectionRadius>100</outlierDetectionRadius>
+    <outlierDetectionRatio>0.68</outlierDetectionRatio>
+    <relativeMinMatchingPairs>0</relativeMinMatchingPairs>
+    <scaledEuclideanMinMatchingPairs>15</scaledEuclideanMinMatchingPairs>
+    <scaledManhattanMinMatchingPairs>15</scaledManhattanMinMatchingPairs>
+    <similarityMinMatchingPairs>10</similarityMinMatchingPairs>
+    <similarityMaxDifferenceForValidMatch>200</similarityMaxDifferenceForValidMatch>
+    <verifierThresholdTypeId>1</verifierThresholdTypeId>
+    <messagingAddress>a</messagingAddress>
+  </DefaultConfiguration>
+</NewDataSet>
